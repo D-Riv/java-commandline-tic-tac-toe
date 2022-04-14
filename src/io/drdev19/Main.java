@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Welcome to Tic Tact Toe Command Line Edition!");
-        System.out.println("Would you like to go first or second? Enter 1 or 2: ");
+        System.out.println("Press 1 to start!");
 
         char marker = setPlayerMarker();
 
